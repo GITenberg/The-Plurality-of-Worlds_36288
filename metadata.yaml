@@ -1,0 +1,35 @@
+_repo: The-Plurality-of-Worlds_36288
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Hitchcock, Edward
+    birthdate: 1793
+    deathdate: 1864
+    gutenberg_agent_id: '37655'
+    url: http://www.gutenberg.org/2009/agents/37655
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Whewell, William
+    alias: Whewell, W. (William)
+    birthdate: 1794
+    deathdate: 1866
+    gutenberg_agent_id: '38180'
+    url: http://www.gutenberg.org/2009/agents/38180
+description: ''
+gutenberg_issued: '2011-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36288'
+  lccn: 05021649
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plurality of worlds'
+- !lcc 'QB'
+title: The Plurality of Worlds
+url: http://www.gutenberg.org/ebooks/36288
